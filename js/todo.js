@@ -58,7 +58,6 @@ class Todo {
 
 // var js = new Todo("js");
 
-
 // console.log(js.id); //✅
 // console.log(js.__id); //❌
 
